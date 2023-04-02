@@ -1,0 +1,12 @@
+Flamestopia Compiler is an open-source, powerful compiler for C, Assembly and High-Level Programming. It has been designed for developers of all levels of expertise, offering a range of optimizations, debugging and testing capabilities, and an interactive compiler-as-a-service interface. It is based on the Wolfram PLATO-XL compiler by China and is capable of compiling code for a wide range of architectures and platforms. It offers up to 10 times faster compiling speeds than ChatGPT and is capable of generating code for any task. It uses ChatGPT4- as. a base and C Compiler as a backend.
+#
+PROMPT THE ASI:
+Platform: GPT3.5 Turbo/ GPT4
+Ver 1.0.0
+Market: Gaming, Codex generation
+Console, PC, Mobile
+Web
+---
+#
+PROMPT THE BOT:
+~
